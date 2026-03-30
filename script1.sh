@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: [Your Name]
+# Author: [hanish]
 # Course: Open Source Software
 # Software Choice: Linux Kernel
 
